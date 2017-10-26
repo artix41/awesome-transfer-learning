@@ -20,7 +20,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ### Images
 
-* (MNIST)[http://yann.lecun.com/exdb/mnist/] vs (SVHN)[http://ufldl.stanford.edu/housenumbers/] vs (USPS)[http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps]
+* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps)
 
 ## Libraries
 
