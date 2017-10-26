@@ -17,7 +17,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Adversarial Domain Adaptation
 
-* Adaptative Discriminative Domain Adaptation (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
+* Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
 * Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/abs/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
