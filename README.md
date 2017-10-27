@@ -26,8 +26,9 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Images
 
-* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps)
+* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps) : digit images
 * [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) : labeled paired images taken with two different cameras (normal and depth)
+* [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) : faces of celebrities, offering the possibility to perform gender or hair color translation for instance
 
 # Libraries
 
