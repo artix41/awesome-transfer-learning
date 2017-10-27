@@ -1,5 +1,5 @@
 # awesome-transfer-learning
-A list of awesome papers and other resources on transfer learning and domain adaptation! Don't hesitate to suggest some resources I could have forgotten.
+A list of awesome papers and other cool resources on transfer learning and domain adaptation! Don't hesitate to suggest some resources I could have forgotten.
 
 # Tutorials and Blogs
 
@@ -18,6 +18,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Adversarial Domain Adaptation
 
 * Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
+* Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
 * Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/abs/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
