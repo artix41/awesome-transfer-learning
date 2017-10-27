@@ -29,11 +29,18 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 # Datasets
 
-## Images
+## Image-to-image
 
-* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps) : digit images
-* [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) : labeled paired images taken with two different cameras (normal and depth)
-* [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) : faces of celebrities, offering the possibility to perform gender or hair color translation for instance
+* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps): digit images
+* [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html): labeled paired images taken with two different cameras (normal and depth)
+* [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html): faces of celebrities, offering the possibility to perform gender or hair color translation for instance
+* [Office-Caltech dataset](https://people.eecs.berkeley.edu/~jhoffman//domainadapt/): images of office objects from 10 common categories shared by the Office-31 and Caltech-256 datasets. There are in total four domains: Amazon, Webcam, DSLR and Caltech.
+
+## Text-to-text
+
+* [Amazon review benchmark dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/): sentiment analysis for four kinds (domains) of reviews: books, DVDs, electronics, kitchen
+* [ECML/PKDD Spam Filtering](http://www.ecmlpkdd2006.org/challenge.html#download): emails from 3 different inboxes, that can represent the 3 domains.
+* [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/): collection of newsgroup documents across 6 top categories and 20 subcategories. Subcategories can play the role of the domains, as describe in [this article](https://arxiv.org/pdf/1707.01217.pdf).
 
 # Libraries
 
