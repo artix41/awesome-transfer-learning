@@ -18,11 +18,12 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Adversarial Domain Adaptation
 
 * Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
+* Unsupervised Cross-domain Image Generation (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.02200.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
 * Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/abs/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
-* DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
+* DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\[\arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
 * Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
 
 ## Optimal Transport
