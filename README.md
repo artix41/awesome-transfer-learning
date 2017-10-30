@@ -33,6 +33,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Optimal Transport
 
 * Theoretical Analysis of Domain Adaptation with Optimal Transport (2016) [\[arXiv\]](https://arxiv.org/pdf/1610.04420.pdf)
+* Joint distribution optimal transportation for domain adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08848.pdf)
 
 # Datasets
 
