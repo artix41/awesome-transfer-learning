@@ -15,6 +15,10 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * A Survey of transfer learning (2016) [\[Paper\]](https://link.springer.com/article/10.1186/s40537-016-0043-6)
 * Domain Adaptation for Visual Applications: A Comprehensive Survey (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05374.pdf)
 
+## General
+
+* Adapting Visual Category Models to New Domains [\[Paper\]](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf)
+
 ## Adversarial Domain Adaptation
 
 * Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
