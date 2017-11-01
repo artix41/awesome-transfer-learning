@@ -24,6 +24,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
 * Unsupervised Cross-domain Image Generation (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.02200.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
+* Learning from Simulated and Unsupervised Images through Adversarial Training [\[arXiv\]](https://arxiv.org/pdf/1612.07828.pdf)
 * Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/abs/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
@@ -35,6 +36,12 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Theoretical Analysis of Domain Adaptation with Optimal Transport (2016) [\[arXiv\]](https://arxiv.org/pdf/1610.04420.pdf)
 * Joint distribution optimal transportation for domain adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08848.pdf)
 
+## Autoencoder approach
+
+* Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder (2015) [\[arXiv\]](https://arxiv.org/pdf/1503.03163.pdf)
+* Learning from Synthetic Data Using a Stacked Multichannel Autoencoder (2015) [\[arXiv\]](https://arxiv.org/pdf/1509.05463.pdf)
+
+
 # Datasets
 
 ## Image-to-image
@@ -43,6 +50,10 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html): labeled paired images taken with two different cameras (normal and depth)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html): faces of celebrities, offering the possibility to perform gender or hair color translation for instance
 * [Office-Caltech dataset](https://people.eecs.berkeley.edu/~jhoffman//domainadapt/): images of office objects from 10 common categories shared by the Office-31 and Caltech-256 datasets. There are in total four domains: Amazon, Webcam, DSLR and Caltech.
+* [Cityscapes dataset](https://www.cityscapes-dataset.com/): street scene photos (source) and their annoted version (target)
+* [UnityEyes](http://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/) vs [MPIIGaze](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/): simulated vs real gaze images (eyes)
+* [CycleGAN datasets](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/): horse2zebra, apple2orange, cezanne2photo, monet2photo, ukiyoe2photo, vangogh2photo, summer2winter
+
 
 ## Text-to-text
 
