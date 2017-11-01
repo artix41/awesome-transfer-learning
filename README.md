@@ -26,7 +26,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
 * Learning from Simulated and Unsupervised Images through Adversarial Training [\[arXiv\]](https://arxiv.org/pdf/1612.07828.pdf)
 * Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
-* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/abs/1703.10593)
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\[\arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
 * Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
