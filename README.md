@@ -30,6 +30,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
+* From source to target and back: symmetric bi-directional adaptive GAN (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08824.pdf)
 * Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
 
 ## Optimal Transport
