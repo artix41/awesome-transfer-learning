@@ -17,11 +17,13 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## General
 
-* Adapting Visual Category Models to New Domains [\[Paper\]](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf)
+* Adapting Visual Category Models to New Domains (2010) [\[Paper\]](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf)
 
 ## Adversarial Domain Adaptation
 
 * Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
+* Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation (2016) [\[arXiv\]](https://arxiv.org/pdf/1607.03516.pdf)
+* Domain Separation Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1608.06019.pdf)
 * Unsupervised Cross-domain Image Generation (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.02200.pdf)
 * Learning to Pivot with Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.01046.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
@@ -30,6 +32,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
+* Generate To Adapt: Aligning Domains using Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.01705.pdf)
 * From source to target and back: symmetric bi-directional adaptive GAN (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08824.pdf)
 * Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
 
