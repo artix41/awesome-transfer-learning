@@ -12,6 +12,8 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Surveys
 
 * A Survey on Transfer Learning (2009) [\[Paper\]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+* A Survey of transfer learning (2016) [\[Paper\]](https://link.springer.com/article/10.1186/s40537-016-0043-6)
+* Domain Adaptation for Visual Applications: A Comprehensive Survey (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05374.pdf)
 
 ## General
 
