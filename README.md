@@ -41,6 +41,11 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Theoretical Analysis of Domain Adaptation with Optimal Transport (2016) [\[arXiv\]](https://arxiv.org/pdf/1610.04420.pdf)
 * Joint distribution optimal transportation for domain adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08848.pdf)
 
+## Kernel Embdedding
+
+* Learning Transferable Features with Deep Adaptation Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1502.02791.pdf)
+* Unsupervised Domain Adaptation with Residual Transfer Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1602.04433.pdf)
+
 ## Autoencoder approach
 
 * Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder (2015) [\[arXiv\]](https://arxiv.org/pdf/1503.03163.pdf)
