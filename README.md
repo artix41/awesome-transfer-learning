@@ -1,4 +1,4 @@
-# awesome-transfer-learning
+# Awesome Transfer Learning
 A list of awesome papers and other cool resources on transfer learning and domain adaptation! Don't hesitate to suggest some resources I could have forgotten.
 
 # Tutorials and Blogs
