@@ -35,6 +35,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Generate To Adapt: Aligning Domains using Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.01705.pdf)
 * From source to target and back: symmetric bi-directional adaptive GAN (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08824.pdf)
 * Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
+* CyCADA: Cycle-Consistent Adversarial Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
 
 ## Optimal Transport
 
