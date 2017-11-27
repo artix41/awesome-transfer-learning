@@ -3,7 +3,7 @@ A list of awesome papers and other cool resources on transfer learning and domai
 
 # Tutorials and Blogs
 
-* Transfer Learning − Machine Learning's Next Frontier [\[Blog\]](http://ruder.io/transfer-learning/index.html)
+* [Transfer Learning − Machine Learning's Next Frontier](http://ruder.io/transfer-learning/index.html)
 
 # Papers
 
@@ -11,13 +11,13 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Surveys
 
-* A Survey on Transfer Learning (2009) [\[Paper\]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
-* A Survey of transfer learning (2016) [\[Paper\]](https://link.springer.com/article/10.1186/s40537-016-0043-6)
-* Domain Adaptation for Visual Applications: A Comprehensive Survey (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05374.pdf)
+* [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2009)
+* [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
+* [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 
 ## General
 
-* Adapting Visual Category Models to New Domains (2010) [\[Paper\]](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf)
+* [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 
 ## Adversarial Domain Adaptation
 
@@ -39,19 +39,18 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Optimal Transport
 
-* Theoretical Analysis of Domain Adaptation with Optimal Transport (2016) [\[arXiv\]](https://arxiv.org/pdf/1610.04420.pdf)
-* Joint distribution optimal transportation for domain adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08848.pdf)
+* [Theoretical Analysis of Domain Adaptation with Optimal Transport](https://arxiv.org/pdf/1610.04420.pdf) (2016)
+* **JDOT**: [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf) (2017)
 
 ## Kernel Embdedding
 
-* Learning Transferable Features with Deep Adaptation Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1502.02791.pdf)
-* Unsupervised Domain Adaptation with Residual Transfer Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1602.04433.pdf)
+* **DAN**: [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) (2015)
+* **RTN**: [Unsupervised Domain Adaptation with Residual Transfer Networks](https://arxiv.org/pdf/1602.04433.pdf) (2016)
 
 ## Autoencoder approach
 
-* Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder (2015) [\[arXiv\]](https://arxiv.org/pdf/1503.03163.pdf)
-* Learning from Synthetic Data Using a Stacked Multichannel Autoencoder (2015) [\[arXiv\]](https://arxiv.org/pdf/1509.05463.pdf)
-
+* **MCAE**: [Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder](https://arxiv.org/pdf/1503.03163.pdf) (2015)
+* **SMCAE**: [Learning from Synthetic Data Using a Stacked Multichannel Autoencoder](https://arxiv.org/pdf/1509.05463.pdf) (2015)
 
 # Datasets
 
