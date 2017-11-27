@@ -28,14 +28,14 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * Learning to Pivot with Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.01046.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.07004.pdf)
 * Learning from Simulated and Unsupervised Images through Adversarial Training (2016) [\[arXiv\]](https://arxiv.org/pdf/1612.07828.pdf)
-* Adaptative Discriminative Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1702.05464.pdf)
-* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.10593)
+* **ADDA**, [Adaptative Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf) (2017)
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017)](https://arxiv.org/pdf/1703.10593)
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1703.05192.pdf)
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.02510.pdf)
 * Generate To Adapt: Aligning Domains using Generative Adversarial Networks (2017) [\[arXiv\]](https://arxiv.org/pdf/1704.01705.pdf)
-* From source to target and back: symmetric bi-directional adaptive GAN (2017) [\[arXiv\]](https://arxiv.org/pdf/1705.08824.pdf)
-* Adversarial Representation Learning for Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
-* CyCADA: Cycle-Consistent Adversarial Domain Adaptation (2017) [\[arXiv\]](https://arxiv.org/pdf/1707.01217.pdf)
+* **SBADA-GAN**, [From source to target and back: symmetric bi-directional adaptive GAN [\[arXiv\]](https://arxiv.org/pdf/1705.08824.pdf) (2017)
+* **WDGRL**, [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
+* **CyCADA**, [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
 
 ## Optimal Transport
 
