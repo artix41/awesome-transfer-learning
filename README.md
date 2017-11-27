@@ -24,6 +24,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1607.03516.pdf) (2016)
 * **DSN**: [Domain Separation Networks](https://arxiv.org/pdf/1608.06019.pdf) (2016)
+* **DIAT**: [Deep Identity-aware Transfer of Facial Attributes](https://arxiv.org/pdf/1610.05586.pdf) (2016)
 * **DTN**: [Unsupervised Cross-domain Image Generation](https://arxiv.org/pdf/1611.02200.pdf) (2016)
 * [Learning to Pivot with Adversarial Networks](https://arxiv.org/pdf/1611.01046.pdf) (2016)
 * **Pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) (2016)
@@ -36,6 +37,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **SBADA-GAN**: [From source to target and back: symmetric bi-directional adaptive GAN](https://arxiv.org/pdf/1705.08824.pdf) (2017)
 * **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
+* **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 
 ## Optimal Transport
 
