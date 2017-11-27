@@ -21,11 +21,11 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Adversarial Domain Adaptation
 
-* Domain-Adversarial Training of Neural Networks (2015) [\[arXiv\]](https://arxiv.org/pdf/1505.07818.pdf)
-* Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation (2016) [\[arXiv\]](https://arxiv.org/pdf/1607.03516.pdf)
-* Domain Separation Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1608.06019.pdf)
-* Unsupervised Cross-domain Image Generation (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.02200.pdf)
-* Learning to Pivot with Adversarial Networks (2016) [\[arXiv\]](https://arxiv.org/pdf/1611.01046.pdf)
+* **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
+* **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1607.03516.pdf) (2016)
+* **DSN**: [Domain Separation Networks](https://arxiv.org/pdf/1608.06019.pdf) (2016)
+* **DTN**: [Unsupervised Cross-domain Image Generation](https://arxiv.org/pdf/1611.02200.pdf) (2016)
+* [Learning to Pivot with Adversarial Networks](https://arxiv.org/pdf/1611.01046.pdf) (2016)
 * **Pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) (2016)
 * **SimGAN**: [Learning from Simulated and Unsupervised Images through Adversarial Training (2016)](https://arxiv.org/pdf/1612.07828.pdf) (2016)
 * **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf) (2017)
