@@ -7,7 +7,7 @@ A list of awesome papers and other cool resources on transfer learning and domai
 
 # Papers
 
-Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers).
+Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers). If the network or algorithm is given a name in a paper, this one is written in bold before the paper's name.
 
 ## Surveys
 
@@ -41,6 +41,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Optimal Transport
 
+* **OT**: [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) (2015)
 * [Theoretical Analysis of Domain Adaptation with Optimal Transport](https://arxiv.org/pdf/1610.04420.pdf) (2016)
 * **JDOT**: [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf) (2017)
 
@@ -77,4 +78,4 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 # Libraries
 
-No good library for the moment. If you're interested in a project of creating a generic transfer learning/domain adaptation library, please let me know.
+No good library for the moment (as far as I know). If you're interested in a project of creating a generic transfer learning/domain adaptation library, please let me know.
