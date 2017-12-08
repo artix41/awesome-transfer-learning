@@ -15,10 +15,6 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 
-## General
-
-* [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
-
 ## Adversarial Domain Adaptation
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
@@ -48,6 +44,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Kernel Embdedding
 
+* **SurK**: [Covariate Shift in Hilbert Space: A Solution via Surrogate Kernels](https://pdfs.semanticscholar.org/edb8/be020e228153163428e8b698aef1af4c5cad.pdf) (2015)
 * **DAN**: [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) (2015)
 * **RTN**: [Unsupervised Domain Adaptation with Residual Transfer Networks](https://arxiv.org/pdf/1602.04433.pdf) (2016)
 
@@ -55,6 +52,18 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 * **MCAE**: [Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder](https://arxiv.org/pdf/1503.03163.pdf) (2015)
 * **SMCAE**: [Learning from Synthetic Data Using a Stacked Multichannel Autoencoder](https://arxiv.org/pdf/1509.05463.pdf) (2015)
+
+## Subspace Learning
+
+* **EA++**: [Frustratingly easy semi-supervised domain-adaptation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.3393&rep=rep1&type=pdf) (2010)
+* **SGF**: [Domain Adaptation for Object Recognition: An Unsupervised Approach](https://pdfs.semanticscholar.org/d3ed/bfee56884d2b6d9aa51a6c525f9a05248802.pdf) (2011)
+* **GFK**: [Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://pdfs.semanticscholar.org/0a59/337568cbf74e7371fb543f7ca34bbc2153ac.pdf) (2012)
+* **SA**: [Unsupervised Visual Domain Adaptation Using Subspace Alignment](https://pdfs.semanticscholar.org/51a4/d658c93c5169eef7568d3d1cf53e8e495087.pdf) (2015)
+* **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/pdf/1611.08350.pdf) (2016)
+
+## Other
+
+* [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 
 # Datasets
 
