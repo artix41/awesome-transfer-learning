@@ -62,11 +62,14 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **SGF**: [Domain Adaptation for Object Recognition: An Unsupervised Approach](https://pdfs.semanticscholar.org/d3ed/bfee56884d2b6d9aa51a6c525f9a05248802.pdf) (2011)
 * **GFK**: [Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://pdfs.semanticscholar.org/0a59/337568cbf74e7371fb543f7ca34bbc2153ac.pdf) (2012)
 * **SA**: [Unsupervised Visual Domain Adaptation Using Subspace Alignment](https://pdfs.semanticscholar.org/51a4/d658c93c5169eef7568d3d1cf53e8e495087.pdf) (2015)
+* **CORAL**: [Return of Frustratingly Easy Domain Adaptation](https://arxiv.org/pdf/1511.05547.pdf) (2015)
+* **Deep CORAL**: [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (2016)
 * **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/pdf/1611.08350.pdf) (2016)
-
+* **Log D-CORAL**: [Correlation Alignment by Riemannian Metric for Domain Adaptation](https://arxiv.org/pdf/1705.08180.pdf) (2017)
 ## Other
 
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
+* **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/pdf/1603.04779.pdf) (2016)
 
 # Datasets
 
