@@ -90,7 +90,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [CycleGAN datasets](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/): horse2zebra, apple2orange, cezanne2photo, monet2photo, ukiyoe2photo, vangogh2photo, summer2winter
 * [pix2pix dataset](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/): edges2handbags, edges2shoes, facade, maps
 * [RaFD](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main): facial images with 8 different emotions (anger, disgust, fear, happiness, sadness, surprise, contempt, and neutral). You can transfer a face from one emotion to another.
-
+* [VisDA 2017 classification dataset](http://ai.bu.edu/visda-2017/#browse): 12 categories of object images in 2 domains: 3D-models and real images. 
 
 ## Text-to-text
 
