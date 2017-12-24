@@ -73,7 +73,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Self-Ensembling methods
 
-* **MT**: [Self-ensembling for domain adaptation](https://arxiv.org/pdf/1706.05208.pdf)
+* **MT**: [Self-ensembling for domain adaptation](https://arxiv.org/pdf/1706.05208.pdf) (2017)
 
 ## Other
 
