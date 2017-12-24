@@ -45,7 +45,11 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **JDOT**: [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf) (2017)
 * **Monge map learning**: [Large Scale Optimal Transport and Mapping Estimation](https://arxiv.org/pdf/1711.02283.pdf) (2017)
 
-## Kernel Embdedding
+## General Embedding
+
+* **DA<sub>assoc</sub>** : [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (2017)
+
+## Kernel Embedding
 
 * **SurK**: [Covariate Shift in Hilbert Space: A Solution via Surrogate Kernels](https://pdfs.semanticscholar.org/edb8/be020e228153163428e8b698aef1af4c5cad.pdf) (2015)
 * **DAN**: [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) (2015)
@@ -66,6 +70,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **Deep CORAL**: [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/pdf/1607.01719.pdf) (2016)
 * **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/pdf/1611.08350.pdf) (2016)
 * **Log D-CORAL**: [Correlation Alignment by Riemannian Metric for Domain Adaptation](https://arxiv.org/pdf/1705.08180.pdf) (2017)
+
 ## Other
 
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
@@ -75,7 +80,8 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Image-to-image
 
-* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps): digit images
+* [MNIST](http://yann.lecun.com/exdb/mnist/) vs [MNIST-M](https://drive.google.com/file/d/0B9Z4d7lAwbnTNDdNeFlERWRGNVk/view) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [Synth](https://drive.google.com/file/d/0B9Z4d7lAwbnTSVR1dEFSRUFxOUU/view) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps): digit images
+* [GTSRB](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) vs [Syn Signs](http://graphics.cs.msu.ru/en/node/1337) : traffic sign recognition datasets, transfer between real and synthetic signs.
 * [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html): labeled paired images taken with two different cameras (normal and depth)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html): faces of celebrities, offering the possibility to perform gender or hair color translation for instance
 * [Office-Caltech dataset](https://people.eecs.berkeley.edu/~jhoffman//domainadapt/): images of office objects from 10 common categories shared by the Office-31 and Caltech-256 datasets. There are in total four domains: Amazon, Webcam, DSLR and Caltech.
@@ -91,6 +97,16 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Amazon review benchmark dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/): sentiment analysis for four kinds (domains) of reviews: books, DVDs, electronics, kitchen
 * [ECML/PKDD Spam Filtering](http://www.ecmlpkdd2006.org/challenge.html#download): emails from 3 different inboxes, that can represent the 3 domains.
 * [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/): collection of newsgroup documents across 6 top categories and 20 subcategories. Subcategories can play the role of the domains, as describe in [this article](https://arxiv.org/pdf/1707.01217.pdf).
+
+# Results
+
+## Digits transfer
+
+| Source<br>Target | MNIST<br>MNIST-M | Synth<br>SVHN | MNIST<br>SVHN | SVHN<br>MNIST | MNIST<br>USPS | USPS<br>MNIST
+| --- | --- | --- | --- | --- | --- | --- |
+| SA | 56.90% | 86.44% | ? | 59.32% | ? | ? |
+| DANN | 76.66% | 91.09% | ? | 73.85% | ? | ? |
+| DA<sub>assoc</sub> | 89.47% | 91.86% | ? | 97.60% | ? | ? | 
 
 # Libraries
 
