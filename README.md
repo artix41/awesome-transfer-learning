@@ -71,6 +71,10 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/pdf/1611.08350.pdf) (2016)
 * **Log D-CORAL**: [Correlation Alignment by Riemannian Metric for Domain Adaptation](https://arxiv.org/pdf/1705.08180.pdf) (2017)
 
+## Self-Ensembling methods
+
+* **MT**: [Self-ensembling for domain adaptation](https://arxiv.org/pdf/1706.05208.pdf)
+
 ## Other
 
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
