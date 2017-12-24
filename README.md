@@ -104,18 +104,20 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 # Results
 
+The results are indicated as the prediction accuracy (in %) in the target domain after adapting the source to the target. For the moment, they only correspond to the results given in the original papers, so the methodology may vary between each paper and these results must be taken with a grain of salt. 
+
 ## Digits transfer
 
 | Source<br>Target    | MNIST<br>MNIST-M  | Synth<br>SVHN | MNIST<br>SVHN | SVHN<br>MNIST | MNIST<br>USPS | USPS<br>MNIST
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
-| SA                  | 56.90%            | 86.44%        | ?             | 59.32%        | ?             | ?       |
-| DANN                | 76.66%            | 91.09%        | ?             | 73.85%        | ?             | ?       |
-| ADDA                | ?                 | ?             | ?             | 76.0%         | 89.4%         | 90.1%   |
-| UNIT                | ?                 | ?             | ?             | 90.53%        | 95.97%        | 93.58%  |
-| GenToAdapt          | ?                 | ?             | ?             | 92.4%         | 95.3%         | 90.8%   |
-| SBADA-GAN           | 99.4%             | ?             | 61.1%         | 76.1%         | 97.6%         | 95.0%   |
-| DA<sub>assoc</sub>  | 89.47%            | 91.86%        | ?             | 97.60%        | ?             | ?       |
-| CyCADA              | ?                 | ?             | ?             | 88.3%         | 94.8%         | 95.7%   |
+| SA                  | 56.90             | 86.44         | ?             | 59.32         | ?             | ?       |
+| DANN                | 76.66             | 91.09         | ?             | 73.85         | ?             | ?       |
+| ADDA                | ?                 | ?             | ?             | 76.0          | 89.4          | 90.1    |
+| UNIT                | ?                 | ?             | ?             | 90.53         | 95.97         | 93.58   |
+| GenToAdapt          | ?                 | ?             | ?             | 92.4          | 95.3          | 90.8    |
+| SBADA-GAN           | 99.4              | ?             | 61.1          | 76.1          | 97.6          | 95.0    |
+| DA<sub>assoc</sub>  | 89.47             | 91.86         | ?             | 97.60         | ?             | ?       |
+| CyCADA              | ?                 | ?             | ?             | 88.3          | 94.8          | 95.7    |
 
 # Libraries
 
