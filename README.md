@@ -124,6 +124,10 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | DA<sub>assoc</sub>  | 89.47             | 91.86         | ?             | 97.60         | ?             | ?       |
 | CyCADA              | ?                 | ?             | ?             | 88.3          | 94.8          | 95.7    |
 
+# Challenges
+
+* [Visual Domain Adaptation Challenge (VisDA)](http://ai.bu.edu/visda-2017/)
+
 # Libraries
 
 No good library for the moment (as far as I know). If you're interested in a project of creating a generic transfer learning/domain adaptation library, please let me know.
