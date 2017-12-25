@@ -15,6 +15,10 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 
+## Theory
+
+* [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+
 ## Adversarial Domain Adaptation
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
@@ -112,6 +116,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
 | SA                  | 56.90             | 86.44         | ?             | 59.32         | ?             | ?       |
 | DANN                | 76.66             | 91.09         | ?             | 73.85         | ?             | ?       |
+| DTN                 | ?                 | ?             | ?             | 90.66         | ?             | ?       |
 | ADDA                | ?                 | ?             | ?             | 76.0          | 89.4          | 90.1    |
 | UNIT                | ?                 | ?             | ?             | 90.53         | 95.97         | 93.58   |
 | GenToAdapt          | ?                 | ?             | ?             | 92.4          | 95.3          | 90.8    |
