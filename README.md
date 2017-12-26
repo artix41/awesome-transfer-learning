@@ -40,6 +40,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.03213.pdf) (2017)
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
+* **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
 
 ## Optimal Transport
