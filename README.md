@@ -22,6 +22,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Adversarial Domain Adaptation
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
+* **JAN**: [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/pdf/1605.06636.pdf) (2016)
 * **CoGAN**: [Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536.pdf) (2016)
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1607.03516.pdf) (2016)
 * **DSN**: [Domain Separation Networks](https://arxiv.org/pdf/1608.06019.pdf) (2016)
