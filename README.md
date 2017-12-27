@@ -30,6 +30,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Learning to Pivot with Adversarial Networks](https://arxiv.org/pdf/1611.01046.pdf) (2016)
 * **Pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) (2016)
 * **SimGAN**: [Learning from Simulated and Unsupervised Images through Adversarial Training (2016)](https://arxiv.org/pdf/1612.07828.pdf) (2016)
+* **PixelDA**: [Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/pdf/1612.05424.pdf) (2016)
 * **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf) (2017)
 * **UNIT**: [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/pdf/1703.00848.pdf) (2017)
 * **CycleGAN**: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593) (2017)
@@ -117,7 +118,11 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
 | SA                  | 56.90             | 86.44         | ?             | 59.32         | ?             | ?       |
 | DANN                | 76.66             | 91.09         | ?             | 73.85         | ?             | ?       |
+| CoGAN               | ?                 | ?             | ?             | ?             | 91.2          | 89.1    |
+| DRCN                | ?                 | ?             | 40.05         | 81.97         | 91.80         | 73.67   |
+| DSN                 | 83.2              | 91.2          | ?             | 82.7          | ?             | ?       |
 | DTN                 | ?                 | ?             | ?             | 90.66         | ?             | ?       |
+| PixelDA             | 98.2              | ?             | ?             | ?             | 95.9          | ?       |
 | ADDA                | ?                 | ?             | ?             | 76.0          | 89.4          | 90.1    |
 | UNIT                | ?                 | ?             | ?             | 90.53         | 95.97         | 93.58   |
 | GenToAdapt          | ?                 | ?             | ?             | 92.4          | 95.3          | 90.8    |
