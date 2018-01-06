@@ -45,6 +45,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
 * **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
+* **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://openreview.net/pdf?id=H1q-TM-AW) (2017)
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
