@@ -66,6 +66,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **SurK**: [Covariate Shift in Hilbert Space: A Solution via Surrogate Kernels](https://pdfs.semanticscholar.org/edb8/be020e228153163428e8b698aef1af4c5cad.pdf) (2015)
 * **DAN**: [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) (2015)
 * **RTN**: [Unsupervised Domain Adaptation with Residual Transfer Networks](https://arxiv.org/pdf/1602.04433.pdf) (2016)
+* **Easy DA**: [A Simple Approach for Unsupervised Domain Adaptation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899860) (2016)
 
 ## Autoencoder approach
 
