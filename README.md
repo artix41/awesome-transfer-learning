@@ -19,7 +19,11 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
 
-## Adversarial Domain Adaptation
+## Unsupervised DA
+
+Only the source domain can have labels
+
+### Adversarial methods
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
 * **JAN**: [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/pdf/1605.06636.pdf) (2016)
@@ -44,38 +48,36 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.03213.pdf) (2017)
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
-* **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://openreview.net/pdf?id=H1q-TM-AW) (2017)
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 
-## Optimal Transport
+### Optimal Transport
 
 * **OT**: [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) (2015)
 * [Theoretical Analysis of Domain Adaptation with Optimal Transport](https://arxiv.org/pdf/1610.04420.pdf) (2016)
 * **JDOT**: [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf) (2017)
 * **Monge map learning**: [Large Scale Optimal Transport and Mapping Estimation](https://arxiv.org/pdf/1711.02283.pdf) (2017)
 
-## General Embedding
+### Embedding methods
 
 * **DA<sub>assoc</sub>** : [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (2017)
 
-## Kernel Embedding
+### Kernel methods
 
 * **SurK**: [Covariate Shift in Hilbert Space: A Solution via Surrogate Kernels](https://pdfs.semanticscholar.org/edb8/be020e228153163428e8b698aef1af4c5cad.pdf) (2015)
 * **DAN**: [Learning Transferable Features with Deep Adaptation Networks](https://arxiv.org/pdf/1502.02791.pdf) (2015)
 * **RTN**: [Unsupervised Domain Adaptation with Residual Transfer Networks](https://arxiv.org/pdf/1602.04433.pdf) (2016)
 * **Easy DA**: [A Simple Approach for Unsupervised Domain Adaptation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899860) (2016)
 
-## Autoencoder approach
+### Autoencoder approach
 
 * **MCAE**: [Learning Classifiers from Synthetic Data Using a Multichannel Autoencoder](https://arxiv.org/pdf/1503.03163.pdf) (2015)
 * **SMCAE**: [Learning from Synthetic Data Using a Stacked Multichannel Autoencoder](https://arxiv.org/pdf/1509.05463.pdf) (2015)
 
-## Subspace Learning
+### Subspace Learning
 
-* **EA++**: [Frustratingly easy semi-supervised domain-adaptation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.3393&rep=rep1&type=pdf) (2010)
 * **SGF**: [Domain Adaptation for Object Recognition: An Unsupervised Approach](https://pdfs.semanticscholar.org/d3ed/bfee56884d2b6d9aa51a6c525f9a05248802.pdf) (2011)
 * **GFK**: [Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://pdfs.semanticscholar.org/0a59/337568cbf74e7371fb543f7ca34bbc2153ac.pdf) (2012)
 * **SA**: [Unsupervised Visual Domain Adaptation Using Subspace Alignment](https://pdfs.semanticscholar.org/51a4/d658c93c5169eef7568d3d1cf53e8e495087.pdf) (2015)
@@ -84,14 +86,43 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/pdf/1611.08350.pdf) (2016)
 * **Log D-CORAL**: [Correlation Alignment by Riemannian Metric for Domain Adaptation](https://arxiv.org/pdf/1705.08180.pdf) (2017)
 
-## Self-Ensembling methods
+### Self-Ensembling methods
 
 * **MT**: [Self-ensembling for domain adaptation](https://arxiv.org/pdf/1706.05208.pdf) (2017)
 
-## Other
+### Other
 
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 * **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/pdf/1603.04779.pdf) (2016)
+
+## Semi-supervised DA
+
+All the source points are labelled, but only few target points are.
+
+### General methods
+
+* **da+lap-sim** : [Semi-Supervised Domain Adaptation with Instance Constraints](http://jeffdonahue.com/papers/DAInstanceConstraintsCVPR2013.pdf) (2013)
+
+### Subspace learning
+
+* **EA++**: [Co-regularization Based Semi-supervised Domain Adaptation](https://papers.nips.cc/paper/4009-co-regularization-based-semi-supervised-domain-adaptation.pdf) (2010)
+* **SDASL**: [Semi-supervised Domain Adaptation with Subspace Learning for Visual Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yao_Semi-Supervised_Domain_Adaptation_2015_CVPR_paper.pdf) (2015)
+
+### Copulas methods
+
+* **NPRV**: [Semi-Supervised Domain Adaptation with Non-Parametric Copulas](https://papers.nips.cc/paper/4802-semi-supervised-domain-adaptation-with-non-parametric-copulas.pdf) (2013)
+
+## Few-shot supervised DA
+
+Only a few target examples are available, but they are labelled
+
+### Adversarial methods
+
+* **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
+
+### Embedding methods
+
+* **CCSA**: [Unified Deep Supervised Domain Adaptation and Generalization](https://arxiv.org/pdf/1709.10190.pdf) (2017)
 
 # Datasets
 
