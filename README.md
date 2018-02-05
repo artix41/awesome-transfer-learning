@@ -168,6 +168,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | SBADA-GAN           | 99.4              | ?             | 61.1          | 76.1          | 97.6          | 95.0    |
 | DA<sub>assoc</sub>  | 89.47             | 91.86         | ?             | 97.60         | ?             | ?       |
 | CyCADA              | ?                 | ?             | ?             | 88.3          | 94.8          | 95.7    |
+| DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 
 # Challenges
 
