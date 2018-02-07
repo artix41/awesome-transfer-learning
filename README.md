@@ -53,6 +53,7 @@ Only the source domain can have labels
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://openreview.net/pdf?id=H1q-TM-AW) (2017)
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
+* **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
 
 ### Optimal Transport
 
@@ -169,6 +170,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | SBADA-GAN           | 99.4              | ?             | 61.1          | 76.1          | 97.6          | 95.0    |
 | DA<sub>assoc</sub>  | 89.47             | 91.86         | ?             | 97.60         | ?             | ?       |
 | CyCADA              | ?                 | ?             | ?             | 88.3          | 94.8          | 95.7    |
+| I2I                 | ?                 | ?             | ?             | 92.1          | 95.1          | 92.2    |
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 
 # Challenges
