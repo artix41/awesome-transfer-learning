@@ -128,6 +128,14 @@ Only a few target examples are available, but they are labelled
 
 * **CCSA**: [Unified Deep Supervised Domain Adaptation and Generalization](https://arxiv.org/pdf/1709.10190.pdf) (2017)
 
+## Applied DA
+
+Domain adaptation applied to other fields, like physics or biology
+
+### Physics
+
+* [Learning to Pivot with Adversarial Networks](http://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf) (2016)
+
 # Datasets
 
 ## Image-to-image
