@@ -1,7 +1,40 @@
 # Awesome Transfer Learning
 A list of awesome papers and other cool resources on transfer learning and domain adaptation! Don't hesitate to suggest some resources I could have forgotten.
 
-# Tutorials and Blogs
+# Table of Contents
+
+* [Tutorial and Blogs](#tutorials-and-blogs)
+* [Papers](#papers)
+  * [Surveys](#surveys)
+  * [Theory](#theory)
+  * [Unsupervised DA](#unsupervised-da)
+    * [Adversarial methods](#adversarial-methods)
+    * [Optimal Transport](#optimal-transport)
+    * [Embedding methods](#embedding-methods)
+    * [Kernel methods](#kernel-methods)
+    * [Autoencoder approach](#autoencoder-approach)
+    * [Subspace learning](#subspace-learning)
+    * [Self-ensembling methods](#self-ensembling-methods)
+    * [Other](#other)
+  * [Semi-supervised DA](#semi-supervised-da)
+    * [General methods](#general-methods)
+    * [Subspace learning](#subspace-learning)
+    * [Copulas methods](#copulas-methods)
+  * [Few-shot supervised DA](#few-shot-supervised-da)
+    * [Adversarial methods](#adversarial-methods)
+    * [Embedding methods](#embedding-methods)
+  * [Applied DA](#applied-da)
+    * [Physics](#physics)
+* [Datasets](#datasets)
+  * [Image-to-image](#image-to-image)
+  * [Text-to-text](#text-to-text)
+* [Results](#results)
+  * [Digits transfer](digits-transfer)
+* [Challenges](#challenges)
+* [Libraries](#libraries)
+   
+
+# Tutorials and Blogs 
 
 * [Transfer Learning − Machine Learning's Next Frontier](http://ruder.io/transfer-learning/index.html)
 * [A Little Review of Domain Adaptation in 2017](https://artix41.github.io/static/domain-adaptation-in-2017/)
