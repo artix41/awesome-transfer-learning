@@ -89,6 +89,7 @@ Only the source domain can have labels
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://openreview.net/pdf?id=H1q-TM-AW) (2017)
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 * **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
+* **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
 
 ### Optimal Transport
 
