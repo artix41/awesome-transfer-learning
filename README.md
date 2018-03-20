@@ -97,6 +97,7 @@ Only the source domain can have labels
 * [Theoretical Analysis of Domain Adaptation with Optimal Transport](https://arxiv.org/pdf/1610.04420.pdf) (2016)
 * **JDOT**: [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf) (2017)
 * **Monge map learning**: [Large Scale Optimal Transport and Mapping Estimation](https://arxiv.org/pdf/1711.02283.pdf) (2017)
+* **JCPOT**: [Optimal Transport for Multi-source Domain Adaptation under Target Shift](https://arxiv.org/pdf/1803.04899.pdf)
 
 ### Embedding methods
 
