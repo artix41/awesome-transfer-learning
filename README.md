@@ -1,5 +1,5 @@
 # Awesome Transfer Learning
-A list of awesome papers and other cool resources on transfer learning and domain adaptation! Don't hesitate to suggest some resources I could have forgotten.
+A list of awesome papers and cool resources on transfer learning, domain adaptation and domain-to-domain translation in general! As you will notice, this list is currently mostly focused on domain adaptation (DA), but don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests.
 
 # Table of Contents
 
@@ -90,6 +90,7 @@ Only the source domain can have labels
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 * **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
 * **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
+* **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
 
 ### Optimal Transport
 
@@ -223,6 +224,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 # Challenges
 
 * [Visual Domain Adaptation Challenge (VisDA)](http://ai.bu.edu/visda-2017/)
+* [Open AI Retro Contest](https://blog.openai.com/retro-contest/)
 
 # Libraries
 
