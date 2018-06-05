@@ -173,6 +173,10 @@ Domain adaptation applied to other fields, like physics or biology
 
 * [Learning to Pivot with Adversarial Networks](http://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf) (2016)
 
+* [Identifying Quantum Phase Transitions with Adversarial Neural Networks](https://arxiv.org/abs/1710.08382) (2017)
+
+* [Automated discovery of characteristic features of phase transitions in many-body localization](https://arxiv.org/abs/1806.00419) (2017)
+
 # Datasets
 
 ## Image-to-image
