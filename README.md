@@ -172,6 +172,7 @@ Domain adaptation applied to other fields, like physics or biology
 ### Physics
 
 * [Learning to Pivot with Adversarial Networks](http://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks.pdf) (2016)
+* [Adversarial Domain Adaptation for Identifying Phase Transitions](https://arxiv.org/pdf/1710.08382.pdf) (2017)
 
 # Datasets
 
