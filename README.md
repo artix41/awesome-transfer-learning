@@ -90,9 +90,11 @@ Only the source domain can have labels
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 * **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
 * **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
+* **RadialGAN**: [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](https://arxiv.org/abs/1802.06403) (2018)
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
 * **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
 * **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
+* **MSTN**: [http://proceedings.mlr.press/v80/xie18c/xie18c.pdf](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
 
 ### Optimal Transport
 
