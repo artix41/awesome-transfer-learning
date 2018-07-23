@@ -82,7 +82,7 @@ Only the source domain can have labels
 * **Model F**: [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](https://arxiv.org/pdf/1708.02191.pdf) (2017)
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.03213.pdf) (2017)
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
-* **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+* **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) (2018)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * **BicycleGAN** : [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf) (2017)
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
@@ -218,7 +218,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | CoGAN               | ?                 | ?             | ?             | ?             | 91.2          | 89.1    |
 | DRCN                | ?                 | ?             | 40.05         | 81.97         | 91.80         | 73.67   |
 | DSN                 | 83.2              | 91.2          | ?             | 82.7          | ?             | ?       |
-| DTN                 | ?                 | ?             | ?             | 90.66         | ?             | ?       |
+| DTN                 | ?                 | ?             | 90.66         | 79.72         | ?             | ?       |
 | PixelDA             | 98.2              | ?             | ?             | ?             | 95.9          | ?       |
 | ADDA                | ?                 | ?             | ?             | 76.0          | 89.4          | 90.1    |
 | UNIT                | ?                 | ?             | ?             | 90.53         | 95.97         | 93.58   |
@@ -230,7 +230,6 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 | DeepJDOT            | 92.4              | ?             | ?             | 96.7          | 95.7          | 96.4    |
 | Augmented-Cyc       | ?                 | ?             | 74.61         | 93.90         | ?             | ?       |
-| DRCN                | ?                 | ?             | 87.74         | 98.97         | 95.02         | 98.96   |
 
 # Challenges
 
