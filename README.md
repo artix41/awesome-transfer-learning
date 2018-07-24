@@ -80,7 +80,7 @@ Only the source domain can have labels
 * **DistanceGAN**: [One-Sided Unsupervised Domain Mapping](https://arxiv.org/pdf/1706.00826.pdf) (2017)
 * **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
 * **Model F**: [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](https://arxiv.org/pdf/1708.02191.pdf) (2017)
-* **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.03213.pdf) (2017)
+* **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (2017)
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) (2018)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
@@ -225,7 +225,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | GenToAdapt          | ?                 | ?             | ?             | 92.4          | 95.3          | 90.8    |
 | SBADA-GAN           | 99.4              | ?             | 61.1          | 76.1          | 97.6          | 95.0    |
 | DA<sub>assoc</sub>  | 89.47             | 91.86         | ?             | 97.60         | ?             | ?       |
-| CyCADA              | ?                 | ?             | ?             | 88.3          | 94.8          | 95.7    |
+| CyCADA              | ?                 | ?             | ?             | 90.4          | 95.6          | 96.5    |
 | I2I                 | ?                 | ?             | ?             | 92.1          | 95.1          | 92.2    |
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 | DeepJDOT            | 92.4              | ?             | ?             | 96.7          | 95.7          | 96.4    |
