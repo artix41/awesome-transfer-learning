@@ -229,7 +229,6 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | I2I                 | ?                 | ?             | ?             | 92.1          | 95.1          | 92.2    |
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 | DeepJDOT            | 92.4              | ?             | ?             | 96.7          | 95.7          | 96.4    |
-| Augmented-Cyc       | ?                 | ?             | 74.61         | 93.90         | ?             | ?       |
 
 # Challenges
 
