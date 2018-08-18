@@ -1,5 +1,5 @@
 # Awesome Transfer Learning
-A list of awesome papers and cool resources on transfer learning, domain adaptation and domain-to-domain translation in general! As you will notice, this list is currently mostly focused on domain adaptation (DA), but don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests.
+A list of awesome papers and cool resources on transfer learning, domain adaptation and domain-to-domain translation in general! As you will notice, this list is currently mostly focused on domain adaptation (DA) and domain-to-domain translation, but don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests.
 
 # Table of Contents
 
@@ -94,7 +94,8 @@ Only the source domain can have labels
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
 * **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
 * **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
-* **MSTN**: [http://proceedings.mlr.press/v80/xie18c/xie18c.pdf](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
+* **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
+* **RecycleGAN**: [Recycle-GAN: Unsupervised Video Retargeting](https://arxiv.org/pdf/1808.05174.pdf) (2018)
 
 ### Optimal Transport
 
