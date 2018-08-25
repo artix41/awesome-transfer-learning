@@ -7,6 +7,13 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 * [Papers](#papers)
   * [Surveys](#surveys)
   * [Theory](#theory)
+  * [Deep Transfer Learning](#deep-transfer-learning)
+    * [Fine-tuning approach](#fine-tuning-approach)
+    * [Feature extraction (embedding) approach](#feature-extraction-embedding-approach)
+    * [Policy transfer for RL](#policy-transfer-for-rl)
+    * [Few-shot transfer learning](#few-shot-transfer-learning)
+    * [Meta transfer learning](#meta-transfer-learning)
+    * [Applications](#applications)
   * [Unsupervised DA](#unsupervised-da)
     * [Adversarial methods](#adversarial-methods)
     * [Optimal Transport](#optimal-transport)
@@ -46,6 +53,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Surveys
 
 * [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2009)
+* [Transfer Learning for Reinforcement Learning Domains: A Survey](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf) (2009)
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 
@@ -53,9 +61,41 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
 
+## Deep Transfer Learning
+
+Transfer of deep learning models.
+
+### Fine-tuning approach
+
+* [Do Better ImageNet Models Transfer Better?](https://arxiv.org/pdf/1805.08974.pdf) (2018)
+
+### Feature extraction (embedding) approach
+
+* [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) (2014)
+* [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328v1.pdf) (2018)
+
+### Policy transfer for RL
+
+* [Reinforcement Learning to Train Ms. Pac-Man Using Higher-order Action-relative Inputs](https://www.rug.nl/research/portal/files/19535198/MS_PACMAN_RL.pdf) (2013)
+
+### Few-shot transfer learning
+
+* [Zero-Shot Transfer Learning for Event Extraction](https://arxiv.org/pdf/1707.01066.pdf) (2017)
+* [Learning a Deep Embedding Model for Zero-Shot Learning](https://www.eecs.qmul.ac.uk/~sgg/papers/ZhangEtAl_CVPR2017.pdf) (2017)
+
+### Meta transfer learning
+
+* [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a/wei18a.pdf) (2018)
+
+### Applications
+
+* [Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?](https://arxiv.org/pdf/1706.00712.pdf) (2017)
+* [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
+* [Comparison of deep transfer learning strategies for digital pathology](https://orbi.uliege.be/bitstream/2268/222511/1/mormont2018-comparison.pdf) (2018)
+
 ## Unsupervised DA
 
-Only the source domain can have labels
+Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
 
 ### Adversarial methods
 
@@ -108,6 +148,7 @@ Only the source domain can have labels
 
 ### Embedding methods
 
+* [Unsupervised Domain Adaptation for Zero-Shot Learning](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kodirov_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf) (2015)
 * **DA<sub>assoc</sub>** : [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (2017)
 
 ### Kernel methods
