@@ -14,7 +14,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
     * [Few-shot transfer learning](#few-shot-transfer-learning)
     * [Meta transfer learning](#meta-transfer-learning)
     * [Applications](#applications)
-  * [Unsupervised DA](#unsupervised-da)
+  * [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
     * [Adversarial methods](#adversarial-methods)
     * [Optimal Transport](#optimal-transport)
     * [Embedding methods](#embedding-methods)
@@ -23,14 +23,14 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
     * [Subspace learning](#subspace-learning)
     * [Self-ensembling methods](#self-ensembling-methods)
     * [Other](#other)
-  * [Semi-supervised DA](#semi-supervised-da)
+  * [Semi-supervised Domain Adaptation](#semi-supervised-domain-adaptation)
     * [General methods](#general-methods)
     * [Subspace learning](#subspace-learning)
     * [Copulas methods](#copulas-methods)
-  * [Few-shot supervised DA](#few-shot-supervised-da)
+  * [Few-shot Supervised Domain Adaptation](#few-shot-supervised-domain-adaptation)
     * [Adversarial methods](#adversarial-methods)
     * [Embedding methods](#embedding-methods)
-  * [Applied DA](#applied-da)
+  * [Applied Domain Adaptation](#applied-domain-adaptation)
     * [Physics](#physics)
 * [Datasets](#datasets)
   * [Image-to-image](#image-to-image)
@@ -104,7 +104,7 @@ Transfer of deep learning models.
 
 * [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
 
-## Unsupervised DA
+## Unsupervised Domain Adaptation
 
 Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
 
@@ -141,7 +141,6 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) (2018)
 * **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
-* **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
 
 #### Multi-source adaptation
 
@@ -205,7 +204,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 * **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/pdf/1603.04779.pdf) (2016)
 
-## Semi-supervised DA
+## Semi-supervised Domain Adaptation
 
 All the source points are labelled, but only few target points are.
 
@@ -222,19 +221,20 @@ All the source points are labelled, but only few target points are.
 
 * **NPRV**: [Semi-Supervised Domain Adaptation with Non-Parametric Copulas](https://papers.nips.cc/paper/4802-semi-supervised-domain-adaptation-with-non-parametric-copulas.pdf) (2013)
 
-## Few-shot supervised DA
+## Few-shot Supervised Domain Adaptation
 
 Only a few target examples are available, but they are labelled
 
 ### Adversarial methods
 
 * **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
+* **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
 
 ### Embedding methods
 
 * **CCSA**: [Unified Deep Supervised Domain Adaptation and Generalization](https://arxiv.org/pdf/1709.10190.pdf) (2017)
 
-## Applied DA
+## Applied Domain Adaptation
 
 Domain adaptation applied to other fields, like physics or biology
 
@@ -274,7 +274,7 @@ Domain adaptation applied to other fields, like physics or biology
 
 The results are indicated as the prediction accuracy (in %) in the target domain after adapting the source to the target. For the moment, they only correspond to the results given in the original papers, so the methodology may vary between each paper and these results must be taken with a grain of salt.
 
-## Digits transfer
+## Digits transfer (unsupervised)
 
 | Source<br>Target    | MNIST<br>MNIST-M  | Synth<br>SVHN | MNIST<br>SVHN | SVHN<br>MNIST | MNIST<br>USPS | USPS<br>MNIST
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
