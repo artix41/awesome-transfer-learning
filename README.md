@@ -73,7 +73,10 @@ Transfer of deep learning models.
 
 * [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) (2014)
 * [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328v1.pdf) (2018)
-* [Learning without forgetting](https://arxiv.org/pdf/1606.09282) (2017)
+
+### Multi-task learning
+
+* [Learning without forgetting](https://arxiv.org/pdf/1606.09282) (2016)
 
 ### Policy transfer for RL
 
@@ -90,13 +93,16 @@ Transfer of deep learning models.
 
 ### Applications
 
-* [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
-
-Medical imaging: 
+#### Medical imaging: 
 
 * [Deep Convolutional Neural Networks forComputer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning](https://arxiv.org/pdf/1602.03409) (2016)
 * [Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?](https://arxiv.org/pdf/1706.00712.pdf) (2017)
 * [Comparison of deep transfer learning strategies for digital pathology](https://orbi.uliege.be/bitstreaom/2268/222511/1/mormont2018-comparison.pdf) (2018)
+
+
+#### Robotics
+
+* [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
 
 ## Unsupervised DA
 
