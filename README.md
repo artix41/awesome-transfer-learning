@@ -56,6 +56,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Transfer Learning for Reinforcement Learning Domains: A Survey](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf) (2009)
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
+* [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601.pdf) (2018)
 
 ## Theory
 
