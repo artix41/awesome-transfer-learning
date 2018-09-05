@@ -7,7 +7,14 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 * [Papers](#papers)
   * [Surveys](#surveys)
   * [Theory](#theory)
-  * [Unsupervised DA](#unsupervised-da)
+  * [Deep Transfer Learning](#deep-transfer-learning)
+    * [Fine-tuning approach](#fine-tuning-approach)
+    * [Feature extraction (embedding) approach](#feature-extraction-embedding-approach)
+    * [Policy transfer for RL](#policy-transfer-for-rl)
+    * [Few-shot transfer learning](#few-shot-transfer-learning)
+    * [Meta transfer learning](#meta-transfer-learning)
+    * [Applications](#applications)
+  * [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
     * [Adversarial methods](#adversarial-methods)
     * [Optimal Transport](#optimal-transport)
     * [Embedding methods](#embedding-methods)
@@ -16,14 +23,14 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
     * [Subspace learning](#subspace-learning)
     * [Self-ensembling methods](#self-ensembling-methods)
     * [Other](#other)
-  * [Semi-supervised DA](#semi-supervised-da)
+  * [Semi-supervised Domain Adaptation](#semi-supervised-domain-adaptation)
     * [General methods](#general-methods)
     * [Subspace learning](#subspace-learning)
     * [Copulas methods](#copulas-methods)
-  * [Few-shot supervised DA](#few-shot-supervised-da)
+  * [Few-shot Supervised Domain Adaptation](#few-shot-supervised-domain-adaptation)
     * [Adversarial methods](#adversarial-methods)
     * [Embedding methods](#embedding-methods)
-  * [Applied DA](#applied-da)
+  * [Applied Domain Adaptation](#applied-domain-adaptation)
     * [Physics](#physics)
 * [Datasets](#datasets)
   * [Image-to-image](#image-to-image)
@@ -46,6 +53,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Surveys
 
 * [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2009)
+* [Transfer Learning for Reinforcement Learning Domains: A Survey](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf) (2009)
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 
@@ -53,49 +61,105 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
 
-## Unsupervised DA
+## Deep Transfer Learning
 
-Only the source domain can have labels
+Transfer of deep learning models.
+
+### Fine-tuning approach
+
+* [Do Better ImageNet Models Transfer Better?](https://arxiv.org/pdf/1805.08974.pdf) (2018)
+
+### Feature extraction (embedding) approach
+
+* [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) (2014)
+* [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328v1.pdf) (2018)
+
+### Multi-task learning
+
+* [Learning without forgetting](https://arxiv.org/pdf/1606.09282) (2016)
+
+### Policy transfer for RL
+
+* [Reinforcement Learning to Train Ms. Pac-Man Using Higher-order Action-relative Inputs](https://www.rug.nl/research/portal/files/19535198/MS_PACMAN_RL.pdf) (2013)
+
+### Few-shot transfer learning
+
+* [Zero-Shot Transfer Learning for Event Extraction](https://arxiv.org/pdf/1707.01066.pdf) (2017)
+* [Learning a Deep Embedding Model for Zero-Shot Learning](https://www.eecs.qmul.ac.uk/~sgg/papers/ZhangEtAl_CVPR2017.pdf) (2017)
+
+### Meta transfer learning
+
+* [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a/wei18a.pdf) (2018)
+
+### Applications
+
+#### Medical imaging: 
+
+* [Deep Convolutional Neural Networks forComputer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning](https://arxiv.org/pdf/1602.03409) (2016)
+* [Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?](https://arxiv.org/pdf/1706.00712.pdf) (2017)
+* [Comparison of deep transfer learning strategies for digital pathology](https://orbi.uliege.be/bitstreaom/2268/222511/1/mormont2018-comparison.pdf) (2018)
+
+
+#### Robotics
+
+* [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
+
+## Unsupervised Domain Adaptation
+
+Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
 
 ### Adversarial methods
+
+#### Learning a latent space
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) (2015)
 * **JAN**: [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/pdf/1605.06636.pdf) (2016)
 * **CoGAN**: [Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536.pdf) (2016)
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1607.03516.pdf) (2016)
 * **DSN**: [Domain Separation Networks](https://arxiv.org/pdf/1608.06019.pdf) (2016)
+* **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf) (2017)
+* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/pdf/1704.01705.pdf) (2017)
+* **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
+* **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (2017)
+* **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://arxiv.org/pdf/1802.08735.pdf) (2017)
+* **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
+* **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
+
+#### Image-to-Image translation
+
 * **DIAT**: [Deep Identity-aware Transfer of Facial Attributes](https://arxiv.org/pdf/1610.05586.pdf) (2016)
-* **DTN**: [Unsupervised Cross-domain Image Generation](https://arxiv.org/pdf/1611.02200.pdf) (2016)
-* [Learning to Pivot with Adversarial Networks](https://arxiv.org/pdf/1611.01046.pdf) (2016)
 * **Pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) (2016)
+* **DTN**: [Unsupervised Cross-domain Image Generation](https://arxiv.org/pdf/1611.02200.pdf) (2016)
 * **SimGAN**: [Learning from Simulated and Unsupervised Images through Adversarial Training (2016)](https://arxiv.org/pdf/1612.07828.pdf) (2016)
 * **PixelDA**: [Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/pdf/1612.05424.pdf) (2016)
-* **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/pdf/1702.05464.pdf) (2017)
 * **UNIT**: [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/pdf/1703.00848.pdf) (2017)
 * **CycleGAN**: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593) (2017)
 * **DiscoGAN**: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf) (2017)
 * **DualGAN**: [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/pdf/1704.02510.pdf) (2017)
-* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/pdf/1704.01705.pdf) (2017)
 * **SBADA-GAN**: [From source to target and back: symmetric bi-directional adaptive GAN](https://arxiv.org/pdf/1705.08824.pdf) (2017)
 * **DistanceGAN**: [One-Sided Unsupervised Domain Mapping](https://arxiv.org/pdf/1706.00826.pdf) (2017)
-* **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/pdf/1707.01217.pdf) (2017)
-* **Model F**: [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](https://arxiv.org/pdf/1708.02191.pdf) (2017)
-* **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (2017)
-* **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) (2018)
+* **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
+* **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
+
+#### Multi-source adaptation
+* [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
+* **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * **BicycleGAN** : [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf) (2017)
 * [Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/pdf/1712.00123.pdf) (2017)
-* **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://arxiv.org/pdf/1802.08735.pdf) (2017)
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
-* **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/pdf/1712.00479.pdf) (2017)
 * **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
 * **RadialGAN**: [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](https://arxiv.org/abs/1802.06403) (2018)
-* **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
-* **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
-* **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
-* **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
+* [Multi-Adversarial Domain Adaptation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17067/16644) (2018)
+* [Multiple Source Domain Adaptation with Adversarial Learning](https://arxiv.org/pdf/1705.09684.pdf) (2018)
+
+#### Temporal models (videos)
+
+* **Model F**: [Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos](https://arxiv.org/pdf/1708.02191.pdf) (2017)
 * **RecycleGAN**: [Recycle-GAN: Unsupervised Video Retargeting](https://arxiv.org/pdf/1808.05174.pdf) (2018)
+* **Vid2vid**: [Video-to-Video Synthesis](https://arxiv.org/pdf/1808.06601.pdf) (2018)
+* **Temporal Smoothing (TS)**: [Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf) (2018)
 
 ### Optimal Transport
 
@@ -108,6 +172,7 @@ Only the source domain can have labels
 
 ### Embedding methods
 
+* [Unsupervised Domain Adaptation for Zero-Shot Learning](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kodirov_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf) (2015)
 * **DA<sub>assoc</sub>** : [Associative Domain Adaptation](https://arxiv.org/pdf/1708.00938.pdf) (2017)
 
 ### Kernel methods
@@ -141,7 +206,7 @@ Only the source domain can have labels
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 * **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/pdf/1603.04779.pdf) (2016)
 
-## Semi-supervised DA
+## Semi-supervised Domain Adaptation
 
 All the source points are labelled, but only few target points are.
 
@@ -158,19 +223,20 @@ All the source points are labelled, but only few target points are.
 
 * **NPRV**: [Semi-Supervised Domain Adaptation with Non-Parametric Copulas](https://papers.nips.cc/paper/4802-semi-supervised-domain-adaptation-with-non-parametric-copulas.pdf) (2013)
 
-## Few-shot supervised DA
+## Few-shot Supervised Domain Adaptation
 
 Only a few target examples are available, but they are labelled
 
 ### Adversarial methods
 
 * **FADA**: [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.02536.pdf) (2017)
+* **Augmented-Cyc**: [Augmented Cyclic Adversarial Learning for Domain Adaptation](https://arxiv.org/pdf/1807.00374.pdf) (2018)
 
 ### Embedding methods
 
 * **CCSA**: [Unified Deep Supervised Domain Adaptation and Generalization](https://arxiv.org/pdf/1709.10190.pdf) (2017)
 
-## Applied DA
+## Applied Domain Adaptation
 
 Domain adaptation applied to other fields, like physics or biology
 
@@ -182,6 +248,10 @@ Domain adaptation applied to other fields, like physics or biology
 * [Identifying Quantum Phase Transitions with Adversarial Neural Networks](https://arxiv.org/abs/1710.08382) (2017)
 
 * [Automated discovery of characteristic features of phase transitions in many-body localization](https://arxiv.org/abs/1806.00419) (2017)
+
+### Audio Processing
+* [Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6817520) (2014)
+* [ADVERSARIAL TEACHER-STUDENT LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION](https://arxiv.org/pdf/1804.00644.pdf)(2018)
 
 # Datasets
 
@@ -210,7 +280,7 @@ Domain adaptation applied to other fields, like physics or biology
 
 The results are indicated as the prediction accuracy (in %) in the target domain after adapting the source to the target. For the moment, they only correspond to the results given in the original papers, so the methodology may vary between each paper and these results must be taken with a grain of salt.
 
-## Digits transfer
+## Digits transfer (unsupervised)
 
 | Source<br>Target    | MNIST<br>MNIST-M  | Synth<br>SVHN | MNIST<br>SVHN | SVHN<br>MNIST | MNIST<br>USPS | USPS<br>MNIST
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
