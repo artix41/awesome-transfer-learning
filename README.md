@@ -151,8 +151,8 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 * **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
 * **RadialGAN**: [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](https://arxiv.org/abs/1802.06403) (2018)
-* [Multi-Adversarial Domain Adaptation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17067/16644) (2018)
-* [Multiple Source Domain Adaptation with Adversarial Learning](https://arxiv.org/pdf/1705.09684.pdf) (2018)
+* **MADA**: [Multi-Adversarial Domain Adaptation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17067/16644) (2018)
+* **MDAN**: [Multiple Source Domain Adaptation with Adversarial Learning](https://arxiv.org/pdf/1705.09684.pdf) (2018)
 
 #### Temporal models (videos)
 
