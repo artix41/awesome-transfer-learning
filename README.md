@@ -56,10 +56,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Transfer Learning for Reinforcement Learning Domains: A Survey](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf) (2009)
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
-
-## Theory
-
-* [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+* [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601.pdf) (2018)
 
 ## Deep Transfer Learning
 
@@ -108,6 +105,11 @@ Transfer of deep learning models.
 
 Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
 
+### Theory
+
+* [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+* [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
+
 ### Adversarial methods
 
 #### Learning a latent space
@@ -143,7 +145,6 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
 
 #### Multi-source adaptation
-* [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * **BicycleGAN** : [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf) (2017)
