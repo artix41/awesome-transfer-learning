@@ -6,7 +6,6 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 * [Tutorial and Blogs](#tutorials-and-blogs)
 * [Papers](#papers)
   * [Surveys](#surveys)
-  * [Theory](#theory)
   * [Deep Transfer Learning](#deep-transfer-learning)
     * [Fine-tuning approach](#fine-tuning-approach)
     * [Feature extraction (embedding) approach](#feature-extraction-embedding-approach)
@@ -15,6 +14,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
     * [Meta transfer learning](#meta-transfer-learning)
     * [Applications](#applications)
   * [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
+    * [Theory](#theory)
     * [Adversarial methods](#adversarial-methods)
     * [Optimal Transport](#optimal-transport)
     * [Embedding methods](#embedding-methods)
@@ -239,7 +239,7 @@ Only a few target examples are available, but they are labelled
 
 ## Applied Domain Adaptation
 
-Domain adaptation applied to other fields, like physics or biology
+Domain adaptation applied to other fields
 
 ### Physics
 
@@ -252,7 +252,7 @@ Domain adaptation applied to other fields, like physics or biology
 
 ### Audio Processing
 * [Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6817520) (2014)
-* [ADVERSARIAL TEACHER-STUDENT LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION](https://arxiv.org/pdf/1804.00644.pdf)(2018)
+* [Adversarial Teacher-Student Learning for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1804.00644.pdf) (2018)
 
 # Datasets
 
