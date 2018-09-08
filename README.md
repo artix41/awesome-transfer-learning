@@ -58,10 +58,6 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
 * [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601.pdf) (2018)
 
-## Theory
-
-* [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
-
 ## Deep Transfer Learning
 
 Transfer of deep learning models.
@@ -109,6 +105,11 @@ Transfer of deep learning models.
 
 Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
 
+### Theory
+
+* [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+* [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
+
 ### Adversarial methods
 
 #### Learning a latent space
@@ -144,7 +145,6 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
 
 #### Multi-source adaptation
-
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf) (2017)
 * **XGAN**: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139.pdf) (2017)
 * **BicycleGAN** : [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586.pdf) (2017)
@@ -152,6 +152,8 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **ComboGAN**: [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) (2017)
 * **AugCGAN**: [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) (2018)
 * **RadialGAN**: [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](https://arxiv.org/abs/1802.06403) (2018)
+* **MADA**: [Multi-Adversarial Domain Adaptation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17067/16644) (2018)
+* **MDAN**: [Multiple Source Domain Adaptation with Adversarial Learning](https://arxiv.org/pdf/1705.09684.pdf) (2018)
 
 #### Temporal models (videos)
 
@@ -247,6 +249,10 @@ Domain adaptation applied to other fields, like physics or biology
 * [Identifying Quantum Phase Transitions with Adversarial Neural Networks](https://arxiv.org/abs/1710.08382) (2017)
 
 * [Automated discovery of characteristic features of phase transitions in many-body localization](https://arxiv.org/abs/1806.00419) (2017)
+
+### Audio Processing
+* [Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6817520) (2014)
+* [ADVERSARIAL TEACHER-STUDENT LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION](https://arxiv.org/pdf/1804.00644.pdf)(2018)
 
 # Datasets
 
