@@ -107,8 +107,14 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 
 ### Theory
 
+#### General
+
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+
+#### Multi-source
+
 * [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
+* [Algorithms and Theory for Multiple-Source Adaptation](https://arxiv.org/pdf/1805.08727.pdf) (2018)
 
 ### Adversarial methods
 
