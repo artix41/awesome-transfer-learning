@@ -315,4 +315,4 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 
 # Libraries
 
-No good library for the moment (as far as I know). If you're interested in a project of creating a generic transfer learning/domain adaptation library, please let me know.
+* Domain Adaptation: [Salad](https://github.com/domainadaptation/salad) (Semi-supervised Adaptive Learning Across Domains)
