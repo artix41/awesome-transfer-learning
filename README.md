@@ -212,6 +212,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 * **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/abs/1603.04779) (2016)
+* [AutoDIAL: Automatic Domain Alignment Layers](https://arxiv.org/abs/1704.08082) (2017)
 
 ## Semi-supervised Domain Adaptation
 
