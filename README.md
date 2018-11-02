@@ -274,6 +274,7 @@ Domain adaptation applied to other fields
 * [RaFD](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main): facial images with 8 different emotions (anger, disgust, fear, happiness, sadness, surprise, contempt, and neutral). You can transfer a face from one emotion to another.
 * [VisDA 2017 classification dataset](http://ai.bu.edu/visda-2017/#browse): 12 categories of object images in 2 domains: 3D-models and real images.
 * [Office-Home dataset](http://hemanthdv.org/OfficeHome-Dataset/): images of objects in 4 domains: art, clipart, product and real-world.
+* [DukeMTMC-reid](https://github.com/layumi/DukeMTMC-reID_evaluation) and [Market-1501](http://www.liangzheng.org/Project/project_reid.html): two pedestrian datasets collected at different places. The evaluation metric is based on open-set image retrieval. 
 
 ## Text-to-text
 
