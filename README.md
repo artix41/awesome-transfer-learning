@@ -84,7 +84,8 @@ Transfer of deep learning models.
 * [Zero-Shot Transfer Learning for Event Extraction](https://arxiv.org/abs/1707.01066) (2017)
 * [Learning a Deep Embedding Model for Zero-Shot Learning](https://www.eecs.qmul.ac.uk/~sgg/papers/ZhangEtAl_CVPR2017.pdf) (2017)
 * [Zero-Shot Object Detection](https://arxiv.org/abs/1804.04340) (2018)
-* ["LSTD: A Low-Shot Transfer Detector for Object Detection"](https://arxiv.org/abs/1803.01529)(2018) [Implementation in caffe](https://github.com/Cassie94/LSTD)
+* [LSTD: A Low-Shot Transfer Detector for Object Detection](https://arxiv.org/abs/1803.01529) (2018)
+* [Multidomain Document Layout Understanding using Few Shot Object Detection](https://arxiv.org/pdf/1808.07330.pdf) (2018)
 
 ### Meta transfer learning
 
@@ -117,7 +118,6 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 
 * [Domain Adaptation with Multiple Sources](https://papers.nips.cc/paper/3550-domain-adaptation-with-multiple-sources.pdf) (2008)
 * [Algorithms and Theory for Multiple-Source Adaptation](https://arxiv.org/abs/1805.08727) (2018)
-* [Multidomain Document Layout Understanding using Few Shot Object Detection]("document layout analysis"/"document segmentation") (2018): an application of the LSTD for "document layout analysis" and "document segmentation".
 
 ### Adversarial methods
 
