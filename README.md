@@ -83,6 +83,9 @@ Transfer of deep learning models.
 
 * [Zero-Shot Transfer Learning for Event Extraction](https://arxiv.org/abs/1707.01066) (2017)
 * [Learning a Deep Embedding Model for Zero-Shot Learning](https://www.eecs.qmul.ac.uk/~sgg/papers/ZhangEtAl_CVPR2017.pdf) (2017)
+* [Zero-Shot Object Detection](https://arxiv.org/abs/1804.04340) (2018)
+* [LSTD: A Low-Shot Transfer Detector for Object Detection](https://arxiv.org/abs/1803.01529) (2018)
+* [Multidomain Document Layout Understanding using Few Shot Object Detection](https://arxiv.org/pdf/1808.07330.pdf) (2018)
 
 ### Meta transfer learning
 
