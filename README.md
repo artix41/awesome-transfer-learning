@@ -65,6 +65,7 @@ Transfer of deep learning models.
 ### Fine-tuning approach
 
 * [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) (2018)
+* [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960) (2019)
 
 ### Feature extraction (embedding) approach
 
