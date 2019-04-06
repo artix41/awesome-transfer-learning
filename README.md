@@ -115,6 +115,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 #### General
 
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
+* [The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings](https://openreview.net/pdf?id=H1VjBebR-) (2018)
 
 #### Multi-source
 
@@ -131,12 +132,13 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1607.03516) (2016)
 * **DSN**: [Domain Separation Networks](https://arxiv.org/abs/1608.06019) (2016)
 * **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) (2017)
-* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/abs/1704.01705) (2017)
+* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Gen) (2019erative Adversarial Networks](https://arxiv.org/abs/1704.01705) (2017)
 * **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/abs/1707.01217) (2017)
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (2017)
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://arxiv.org/abs/1802.08735) (2017)
 * **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
 * **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
+* [Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer](https://openreview.net/pdf?id=BylE1205Fm) (2019)
 
 #### Image-to-Image translation
 
@@ -262,6 +264,7 @@ Domain adaptation applied to other fields
 ### Audio Processing
 * [Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6817520) (2014)
 * [Adversarial Teacher-Student Learning for Unsupervised Domain Adaptation](https://arxiv.org/abs/1804.00644) (2018)
+* [Semi-Supervised Monaural Singing Voice Separation With a Masking Network Trained on Synthetic Mixtures](https://arxiv.org/pdf/1812.06087.pdf) (2019)
 
 # Datasets
 
