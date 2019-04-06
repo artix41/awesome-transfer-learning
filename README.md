@@ -87,6 +87,7 @@ Transfer of deep learning models.
 * [Zero-Shot Object Detection](https://arxiv.org/abs/1804.04340) (2018)
 * [LSTD: A Low-Shot Transfer Detector for Object Detection](https://arxiv.org/abs/1803.01529) (2018)
 * [Multidomain Document Layout Understanding using Few Shot Object Detection](https://arxiv.org/pdf/1808.07330.pdf) (2018)
+* [One-Shot Unsupervised Cross Domain Translation](https://arxiv.org/abs/1806.06029) (2018)
 
 ### Meta transfer learning
 
