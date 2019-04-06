@@ -132,7 +132,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1607.03516) (2016)
 * **DSN**: [Domain Separation Networks](https://arxiv.org/abs/1608.06019) (2016)
 * **ADDA**: [Adaptative Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464) (2017)
-* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Gen) (2019erative Adversarial Networks](https://arxiv.org/abs/1704.01705) (2017)
+* **GenToAdapt**: [Generate To Adapt: Aligning Domains using Generative Adversarial Networks](https://arxiv.org/abs/1704.01705) (2017)
 * **WDGRL**: [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/abs/1707.01217) (2017)
 * **CyCADA**: [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) (2017)
 * **DIRT-T**: [A DIRT-T Approach to Unsupervised Domain Adaptation](https://arxiv.org/abs/1802.08735) (2017)
