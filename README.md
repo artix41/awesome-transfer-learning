@@ -210,6 +210,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **Deep CORAL**: [Deep CORAL: Correlation Alignment for Deep Domain Adaptation](https://arxiv.org/abs/1607.01719) (2016)
 * **ILS**: [Learning an Invariant Hilbert Space for Domain Adaptation](https://arxiv.org/abs/1611.08350) (2016)
 * **Log D-CORAL**: [Correlation Alignment by Riemannian Metric for Domain Adaptation](https://arxiv.org/abs/1705.08180) (2017)
+* **GCA**: [A Unified Framework for Domain Adaptation using Metric Learning on Manifolds](https://arxiv.org/pdf/1804.10834.pdf) (2018)
 
 ### Self-Ensembling methods
 
