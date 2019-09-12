@@ -174,6 +174,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **RecycleGAN**: [Recycle-GAN: Unsupervised Video Retargeting](https://arxiv.org/pdf/1808.05174.pdf) (2018)
 * **Vid2vid**: [Video-to-Video Synthesis](https://arxiv.org/pdf/1808.06601.pdf) (2018)
 * **Temporal Smoothing (TS)**: [Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf) (2018)
+* **TA<sup>3</sup>N**: [Temporal Attentive Alignment for Large-Scale Video Domain Adaptation](https://arxiv.org/abs/1907.12743) (2019)
 
 ### Optimal Transport
 
