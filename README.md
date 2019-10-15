@@ -139,6 +139,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **DupGAN**: [Duplex Generative Adversarial Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.pdf) (2018)
 * **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
 * [Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer](https://openreview.net/pdf?id=BylE1205Fm) (2019)
+* **DTA**: [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.05562) (2019)
 
 #### Image-to-Image translation
 
@@ -316,6 +317,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | I2I                 | ?                 | ?             | ?             | 92.1          | 95.1          | 92.2    |
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 | DeepJDOT            | 92.4              | ?             | ?             | 96.7          | 95.7          | 96.4    |
+| DTA                 | ?                 | ?             | ?             | 99.4          | 99.5          | 99.1    |
 
 # Challenges
 
