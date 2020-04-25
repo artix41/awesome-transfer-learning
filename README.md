@@ -66,6 +66,7 @@ Transfer of deep learning models.
 
 * [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) (2018)
 * [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960) (2019)
+* [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773) (2020)
 
 ### Feature extraction (embedding) approach
 
