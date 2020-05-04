@@ -328,3 +328,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 # Libraries
 
 * Domain Adaptation: [Salad](https://github.com/domainadaptation/salad) (Semi-supervised Adaptive Learning Across Domains)
+
+# Books
+
+* [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
