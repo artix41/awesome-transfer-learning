@@ -39,6 +39,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
   * [Digits transfer](digits-transfer)
 * [Challenges](#challenges)
 * [Libraries](#libraries)
+* [Books](#books)
    
 
 # Tutorials and Blogs 
