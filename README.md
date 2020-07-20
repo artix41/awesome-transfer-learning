@@ -47,7 +47,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 # Tutorials and Blogs 
 
 * [Transfer Learning − Machine Learning's Next Frontier](http://ruder.io/transfer-learning/index.html)
-* [A Little Review of Domain Adaptation in 2017](https://artix41.github.io/static/domain-adaptation-in-2017/)
+* [A Little Review of Domain Adaptation in 2017](https://artix41.github.io/blog/2018-01-03-domain-adaptation-2017/)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
 # Papers
