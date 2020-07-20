@@ -1,5 +1,7 @@
 # Awesome Transfer Learning
-A list of awesome papers and cool resources on transfer learning, domain adaptation and domain-to-domain translation in general! As you will notice, this list is currently mostly focused on domain adaptation (DA) and domain-to-domain translation, but don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests.
+A list of awesome papers and cool resources on transfer learning, domain adaptation and domain-to-domain translation in general! As you will notice, this list is currently mostly focused on domain adaptation (DA) and domain-to-domain translation, but don't hesitate to suggest resources in other subfields of transfer learning.
+
+**Note**: this list is not actively maintained anymore, but I still accept pull requests, so please don't hesitate if you want to contribute with newer resources
 
 # Table of Contents
 
