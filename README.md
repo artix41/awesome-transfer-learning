@@ -228,6 +228,10 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * [Adapting Visual Category Models to New Domains](https://scalable.mpi-inf.mpg.de/files/2013/04/saenko_eccv_2010.pdf) (2010)
 * **AdaBN**: [Revisiting Batch Normalization for Practical Domain Adaptation](https://arxiv.org/abs/1603.04779) (2016)
 * [AutoDIAL: Automatic Domain Alignment Layers](https://arxiv.org/abs/1704.08082) (2017)
+* [Fully Test-time Adaptation by Entropy Minimization](https://arxiv.org/pdf/2006.10726.pdf) (2020)
+* [Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift](https://arxiv.org/abs/2006.10963) (2020)
+* [Improving robustness against common corruptions by covariate shift adaptation](https://arxiv.org/abs/2006.16971.pdf) (2020)
+
 
 ## Semi-supervised Domain Adaptation
 
