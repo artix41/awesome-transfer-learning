@@ -162,6 +162,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **pix2pixHD**: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585) (2018)
 * **I2I**: [Image to Image Translation for Domain Adaptation](https://arxiv.org/abs/1712.00479) (2017)
 * **MUNIT**: [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732) (2018)
+* **LSTNet**: [Unsupervised Latent Space Translation Network](https://arxiv.org/abs/2003.09149)(2020)
 
 #### Multi-source adaptation
 * **StarGAN**: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) (2017)
@@ -323,6 +324,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | DIRT-T              | 98.7              | ?             | 76.5          | 99.4          | ?             | ?       |
 | DeepJDOT            | 92.4              | ?             | ?             | 96.7          | 95.7          | 96.4    |
 | DTA                 | ?                 | ?             | ?             | 99.4          | 99.5          | 99.1    |
+| LSTNet              | ?                 | ?             | ?             | ?             | 97.61         | 97.01   |
 
 # Challenges
 
