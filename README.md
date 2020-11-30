@@ -132,7 +132,6 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 #### Learning a latent space
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/abs/1505.07818) (2015)
-* **iDANN**: [Incremental Unsupervised Domain-Adversarial Training of Neural Networks](https://ieeexplore.ieee.org/document/9216604) (2020)
 * **JAN**: [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/abs/1605.06636) (2016)
 * **CoGAN**: [Coupled Generative Adversarial Networks](https://arxiv.org/abs/1606.07536) (2016)
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1607.03516) (2016)
@@ -146,6 +145,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * **MSTN**: [Learning Semantic Representations for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) (2018)
 * [Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer](https://openreview.net/pdf?id=BylE1205Fm) (2019)
 * **DTA**: [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.05562) (2019)
+* **iDANN**: [Incremental Unsupervised Domain-Adversarial Training of Neural Networks](https://ieeexplore.ieee.org/document/9216604) (2020)
 
 #### Image-to-Image translation
 
