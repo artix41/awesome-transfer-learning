@@ -132,6 +132,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 #### Learning a latent space
 
 * **DANN**: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/abs/1505.07818) (2015)
+* **iDANN**: [Incremental Unsupervised Domain-Adversarial Training of Neural Networks](https://ieeexplore.ieee.org/document/9216604) (2020)
 * **JAN**: [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/abs/1605.06636) (2016)
 * **CoGAN**: [Coupled Generative Adversarial Networks](https://arxiv.org/abs/1606.07536) (2016)
 * **DRCN**: [Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1607.03516) (2016)
@@ -313,6 +314,7 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 | ---                 | ---               | ---           | ---           | ---           | ---           | ---     |
 | SA                  | 56.90             | 86.44         | ?             | 59.32         | ?             | ?       |
 | DANN                | 76.66             | 91.09         | ?             | 73.85         | ?             | ?       |
+| iDANN               | 96.67             | 91.95         | 36.49         | 84.50         | ?             | ?       |
 | CoGAN               | ?                 | ?             | ?             | ?             | 91.2          | 89.1    |
 | DRCN                | ?                 | ?             | 40.05         | 81.97         | 91.80         | 73.67   |
 | DSN                 | 83.2              | 91.2          | ?             | 82.7          | ?             | ?       |
