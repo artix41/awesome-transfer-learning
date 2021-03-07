@@ -121,6 +121,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 
 * [A theory of learning from different domains](http://www.alexkulesza.com/pubs/adapt_mlj10.pdf) (2010)
 * [The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings](https://openreview.net/pdf?id=H1VjBebR-) (2018)
+* [A Theory of Label Propagation for Subpopulation Shift](https://arxiv.org/abs/2102.11203) (2021)
 
 #### Multi-source
 
