@@ -111,6 +111,11 @@ Transfer of deep learning models.
 
 * [A Deep Convolutional Neural Network for Location Recognition and Geometry Based Information](http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CNN_LOCALIZATION_2018.pdf) (2018)
 
+#### Anomaly Detection
+
+* [Multiresolution Knowledge Distillation for Anomaly Detection](https://arxiv.org/abs/2011.11108) (2020)
+
+
 ## Unsupervised Domain Adaptation
 
 Transfer between a source and a target domain. In unsupervised domain adaptation, only the source domain can have labels.
