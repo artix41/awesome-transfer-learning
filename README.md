@@ -348,6 +348,6 @@ The results are indicated as the prediction accuracy (in %) in the target domain
 * Domain Adaptation: [Salad](https://github.com/domainadaptation/salad) (Semi-supervised Adaptive Learning Across Domains)
 
 # Books
-
+* [Transfer Learning in Action](https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335) | [GitHub Repo](https://github.com/raghavbali/transfer-learning-in-action)
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
 * [Hands-On Transfer Learning with Python](https://learning.oreilly.com/library/view/hands-on-transfer-learning/9781788831307) | [GitHub Repo](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
