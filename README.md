@@ -37,6 +37,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 * [Datasets](#datasets)
   * [Image-to-image](#image-to-image)
   * [Text-to-text](#text-to-text)
+  * [Other](#other-1)
 * [Results](#results)
   * [Digits transfer](digits-transfer)
 * [Challenges](#challenges)
