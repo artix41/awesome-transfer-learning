@@ -152,6 +152,7 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * [Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer](https://openreview.net/pdf?id=BylE1205Fm) (2019)
 * **DTA**: [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation](https://arxiv.org/abs/1910.05562) (2019)
 * **iDANN**: [Incremental Unsupervised Domain-Adversarial Training of Neural Networks](https://ieeexplore.ieee.org/document/9216604) (2020)
+* [Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning](https://arxiv.org/abs/2002.08587) (2020)
 
 #### Image-to-Image translation
 
@@ -239,6 +240,8 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * [Fully Test-time Adaptation by Entropy Minimization](https://arxiv.org/pdf/2006.10726.pdf) (2020)
 * [Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift](https://arxiv.org/abs/2006.10963) (2020)
 * [Improving robustness against common corruptions by covariate shift adaptation](https://arxiv.org/abs/2006.16971.pdf) (2020)
+* **IAST**: [Instance Adaptive Self-Training for Unsupervised Domain Adaptation](https://github.com/bupt-ai-cz/IAST-ECCV2020) (2020)
+* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://github.com/bupt-ai-cz/Meta-SelfLearning) (2021)
 
 
 ## Semi-supervised Domain Adaptation
@@ -309,6 +312,9 @@ Domain adaptation applied to other fields
 * [Amazon review benchmark dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/): sentiment analysis for four kinds (domains) of reviews: books, DVDs, electronics, kitchen
 * [ECML/PKDD Spam Filtering](http://www.ecmlpkdd2006.org/challenge.html#download): emails from 3 different inboxes, that can represent the 3 domains.
 * [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/): collection of newsgroup documents across 6 top categories and 20 subcategories. Subcategories can play the role of the domains, as describe in [this article](https://arxiv.org/pdf/1707.01217.pdf).
+
+## Other
+* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://github.com/bupt-ai-cz/Meta-SelfLearning) (2021)
 
 # Results
 
