@@ -5,8 +5,6 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 
 # Table of Contents
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 * [Tutorial and Blogs](#tutorials-and-blogs)
 * [Papers](#papers)
   * [Surveys](#surveys)
@@ -243,8 +241,8 @@ Transfer between a source and a target domain. In unsupervised domain adaptation
 * [Fully Test-time Adaptation by Entropy Minimization](https://arxiv.org/pdf/2006.10726.pdf) (2020)
 * [Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift](https://arxiv.org/abs/2006.10963) (2020)
 * [Improving robustness against common corruptions by covariate shift adaptation](https://arxiv.org/abs/2006.16971.pdf) (2020)
-* **IAST**: [Instance Adaptive Self-Training for Unsupervised Domain Adaptation](https://github.com/bupt-ai-cz/IAST-ECCV2020) (2020)
-* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://github.com/bupt-ai-cz/Meta-SelfLearning) (2021)
+* **IAST**: [Instance Adaptive Self-Training for Unsupervised Domain Adaptation](https://arxiv.org/abs/2008.12197) (2020)
+* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://arxiv.org/abs/2108.10840) (2021)
 
 
 ## Semi-supervised Domain Adaptation
@@ -317,7 +315,7 @@ Domain adaptation applied to other fields
 * [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/): collection of newsgroup documents across 6 top categories and 20 subcategories. Subcategories can play the role of the domains, as describe in [this article](https://arxiv.org/pdf/1707.01217.pdf).
 
 ## Other
-* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://github.com/bupt-ai-cz/Meta-SelfLearning) (2021)
+* **Meta Self-Learning**: [Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://arxiv.org/abs/2108.10840) (2021)
 
 # Results
 
