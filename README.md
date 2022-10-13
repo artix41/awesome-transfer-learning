@@ -100,6 +100,10 @@ Transfer of deep learning models.
 
 * [Transfer Learning via Learning to Transfer](http://proceedings.mlr.press/v80/wei18a/wei18a.pdf) (2018)
 
+#### Continual Learning
+
+* [Transfer without Forgetting](https://arxiv.org/abs/2206.00388v2) (2022)
+
 ### Applications
 
 #### Medical imaging: 
