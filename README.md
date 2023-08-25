@@ -295,6 +295,7 @@ Domain adaptation applied to other fields
 
 ## Image-to-image
 
+* [Kurcuma](https://www.dlsi.ua.es/~jgallego/datasets/kurcuma/): a kitchen utensil recognition collection for unsupervised domain adaptation which comprises 7 individual kitchen utensil datasets with a varying number of color images distributed in 9 classes [[PAA2023]](https://link.springer.com/article/10.1007/s10044-023-01147-x).
 * [MNIST](http://yann.lecun.com/exdb/mnist/) vs [MNIST-M](https://drive.google.com/file/d/0B9Z4d7lAwbnTNDdNeFlERWRGNVk/view) vs [SVHN](http://ufldl.stanford.edu/housenumbers/) vs [Synth](https://drive.google.com/file/d/0B9Z4d7lAwbnTSVR1dEFSRUFxOUU/view) vs [USPS](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps): digit images
 * [GTSRB](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) vs [Syn Signs](http://graphics.cs.msu.ru/en/node/1337) : traffic sign recognition datasets, transfer between real and synthetic signs.
 * [NYU Depth Dataset V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html): labeled paired images taken with two different cameras (normal and depth)
