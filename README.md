@@ -73,11 +73,18 @@ Transfer of deep learning models.
 * [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960) (2019)
 * [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773) (2020)
 * [Regularizing CNN Transfer Learning with Randomised Regression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Regularizing_CNN_Transfer_Learning_With_Randomised_Regression_CVPR_2020_paper.pdf) (2020)
+* [Efficient Test-Time Prompt Tuning for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-026-03019-3) (IJCV 2026)
+* [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276) (arXiv 2026) [[Code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+* [Motion-aware generative frame interpolation](https://link.springer.com/article/10.1007/s11432-025-4920-3) (SCIS 2026) [[Code]](https://github.com/MCG-NJU/MoG-VFI)
+* [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) (arXiv 2026) [[Code]](https://github.com/MCG-NJU/VideoJev)
+* [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) (arXiv 2026) [[Code]](https://github.com/MCG-NJU/VideoChat3)
 
 ### Feature extraction (embedding) approach
 
 * [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) (2014)
 * [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328v1) (2018)
+* [AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) (NeurIPS 2024) [[Code]](https://github.com/MCG-NJU/AWT)
+* [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) (ICML 2026) [[Code]](https://github.com/MCG-NJU/FreeRet)
 
 ### Multi-task learning
 
